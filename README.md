@@ -8,4 +8,4 @@ Report Score: 69/70
 
 ## Introduction :rocket:
 
-This is the third project of the course CS311 Computer Organization and Design at SUSTech. The project is to build a model using Machine Learning to classify Adult Census Income data. The model is implemented using the light gradient boosting machine (LightGBM) algorithm.
+This is the third project of the course CS311 Artificial Intelligence(H) at SUSTech. The project is to build a model using Machine Learning to classify Adult Census Income data. The model is implemented using the light gradient boosting machine (LightGBM) algorithm.
